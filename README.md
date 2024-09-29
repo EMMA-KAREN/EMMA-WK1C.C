@@ -1,6 +1,6 @@
-# (Project Name)
+# (week 1  code challange)
 
-#### Date, 2018/09/14
+#### Date, 2024,29,09
 
 #### By *EMMACULATE MWIKALI*
 
@@ -40,11 +40,11 @@ let mark = 90; // Set the student's mark to 90
 *    console.log("INVALID INPUT"); // Output for invalid marks (less than 1 or greater than 100)
 * }
 
-## Speed Detector
+# Speed Detector
 
 This Speed Detector program calculates demerit points for drivers based on their speed relative to a defined speed limit of 70 km/h. The program awards points for exceeding the speed limit, with each 5 km/h over the limit resulting in 1 demerit point.
 
-# Features
+## Features
 
 - **Speed Limit Check**: Validates the driver's speed against the set speed limit.
 - **Demerit Points Calculation**: Computes the number of demerit points based on excess speed.
@@ -53,7 +53,7 @@ This Speed Detector program calculates demerit points for drivers based on their
   - Number of demerit points for minor excess speeds.
   - "License suspended" for drivers accumulating 12 or more demerit points.
 
-# Usage
+## Usage
 
 To use the Speed Detector, simply call the `calculateDemeritPoints(speed)` function with the driver's speed as an argument:
 
@@ -121,25 +121,9 @@ To calculate the salary breakdown for an employee with a basic salary of 50,000 
 *console.log("Housing Levy:", salaryBreakdown.housingLevy);
 *console.log("Net Salary:", salaryBreakdown.netSalary);
 
-
-
-## Setup/Installation Instruction
-* Download a zip in the code button to the desired folder
-* Extract the files
-* Open the extracted folder with VSCode
-
-## Installation Requirements
-Git
-
-### Installation instruction
-```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
-
-```
-
 # Live Link
-* You can view the web live on [Portfolio]
-[Git](gh-pages link)
+* You can view the web live on (https://github.com/EMMA-KAREN/EMMA-WK1C.C)]
+
 
 ## Technologies used
 Github
@@ -150,7 +134,7 @@ Contact details (mumokaren@gmail.com, 079792951, )
 
 ### License
 The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+(https://github.com/EMMA-KAREN/EMMA-WK1C.C/blob/master/licence.md)
 
 
 
