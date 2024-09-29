@@ -63,7 +63,7 @@ To use the Speed Detector, simply call the `calculateDemeritPoints(speed)` funct
 *console.log(calculateDemeritPoints(140)); // Output: License suspended
 
 
-### Net Salary calculation System
+# Net Salary calculation System
 This project implements a salary calculation system that computes the net salary of an employee based on their basic salary and benefits. The calculation includes deductions for:
 
 - **PAYE (Pay As You Earn) Tax**: A progressive tax based on the employee's taxable income.
